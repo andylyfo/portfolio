@@ -1,8 +1,8 @@
-## Portfolio
+### PROJECTS
 
----
+<br><br>
 
-### Category Name 1 
+<br><br>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,9 @@
 
 ---
 
-### Category Name 2
+### Writing
+
+I try to keep my pen sharp by publishing a food-related journal called TRIPE on substack. TRIPE being a synonym for nonsense, naturally.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
