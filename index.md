@@ -1,20 +1,25 @@
 ### PROJECTS
 
 <br><br>
-
+Here is a recent selection of data and developer projects, as well as a short summary of my Master's thesis in climate modelling.
 <br><br>
 
-[Project 1 Title](/sample_page)
+[MScR - Global Environtmental Challeneges, University of Bristol](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[F1 2022 - Ferrari Driver Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Circular Cycling Route WebApp](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[Browser Boids](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation to work in a browser window. Sit back and relax.
 ---
 
 ### Writing
