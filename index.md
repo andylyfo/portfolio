@@ -28,7 +28,7 @@ I've always been enamoured by the migratory activity of starlings (who isn't?) k
 
 ---
 
-### Writing
+### WRITING
 
 I try to keep my pen sharp by publishing a food-related journal called TRIPE on substack. TRIPE being a synonym for nonsense, naturally.
 
@@ -38,3 +38,18 @@ I try to keep my pen sharp by publishing a food-related journal called TRIPE on 
 
 ---
 
+### CONTACT
+
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
