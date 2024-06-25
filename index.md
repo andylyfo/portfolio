@@ -6,21 +6,24 @@ Here is a recent selection of data and developer projects, as well as a short su
 
 [MScR - Global Environtmental Challeneges, University of Bristol](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
 
 ---
 [F1 2022 - Ferrari Driver Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
 
 ---
 [James Ward-Prowse: All Free Kicks Analysed](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-A short project to brighten my mood as a fan of (at the time) struggling Southampton. James Ward-Prowse seems destined to break the premier league free kick record so I wanted to see if I could analyse them from a data perspective to gain insight on his best location and angle. To find his 'territory', as it were. First this involved using some tutorials to write a web scraping API to pull all the shot data for every attempt (including open play) from [Understat](https://understat.com/player/843). The next step was cleaning and stripping the data down to just his free kick attempts and the essentials. Then it was a simple case of plotting the data with Python and it's packages. The findings were enlightening.
+<br><br>
+A short project to brighten my mood as a fan of (at the time) struggling Southampton. James Ward-Prowse seems destined to break the premier league free kick record so I wanted to see if I could analyse them from a data perspective to gain insight on his best location and angle. To find his 'territory', as it were. First this involved using some tutorials to write a __web scraping API__ to pull all the shot data for every attempt (including open play) from [Understat](https://understat.com/player/843). The next step was cleaning and stripping the data down to just his free kick attempts and the essentials. Then it was a simple case of plotting the data with __Python__ and it's packages. The findings were enlightening.
 
 ---
 [Browser Boids](https://andylyfo.github.io/boids/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br><br>
-I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version that I can view from my desktop rather than a 4 hour journey down to Brighton beach. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation to work in a browser window. Sit back and relax. This was adapted from Ben Eater's work, the repo is [here](https://github.com/andylyfo/boids).
+I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version that I can view from my desktop rather than a 4 hour journey down to Brighton beach. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation with __JavaScipt/HTML/CSS__ to work in a browser window. Sit back and relax. This was adapted from Ben Eater's work, the repo is [here](https://github.com/andylyfo/boids).
 <br><br>
 ---
 
