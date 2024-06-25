@@ -12,14 +12,14 @@ Here is a recent selection of data and developer projects, as well as a short su
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Circular Cycling Route WebApp](http://example.com/)
+[James Ward-Prowse: All Free Kicks Analysed](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Browser Boids](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br><br>
-I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation to work in a browser window. Sit back and relax.
+I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version that I can view from my desktop rather than a 4 hour journey down to Brighton beach. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation to work in a browser window. Sit back and relax.
 <br><br>
 ---
 
