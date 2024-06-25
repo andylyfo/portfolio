@@ -5,11 +5,13 @@ Here is a recent selection of data and developer projects, as well as a short su
 <br><br>
 
 [MScR - Global Environtmental Challenges, University of Bristol](/pdf/bridge_retreat_slides_AL.pdf)
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br><br>
 
 ---
 [F1 2022 - Ferrari Driver Analysis](https://tripeblog.substack.com/p/f1-2022-carlos-sainz-jr-charles-leclerc)
+<br><br>
 <img src="images/SAIvLEC_championship_standings.png"/>
 <br><br>
 An analysis of the results for the Ferrari team during the 2021 season and what it could mean for them going into the 2022 season with arguably the best driver pairing on the grid at the time. Since teams usually opt for a defacto lead driver in the instance of title battle, I laid down the cases for Carlos Sainz Jr. and Charles Leclerc. The former was more consistent and I believe still is the most underrated driver in F1. Ultimately, the 2022 Ferrari was a long way off the pace for this analysis to really matter. I also wrote a short piece analysing telemetry data in the [Bahrain race](https://tripeblog.substack.com/p/f1-2022-leclerc-plays-matador-to) of that year. All analysis scripts were written in __Python__ as an extracurricular way of learning the language for my masters research.
@@ -26,6 +28,7 @@ You can find the scripts for this analysis, along with other football related sc
 
 ---
 [Browser Boids](https://andylyfo.github.io/boids/)
+<br><br>
 <img src="images/murmuration.jpg?raw=true"/>
 <br><br>
 I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version that I can view from my desktop rather than a 4 hour journey down to Brighton beach. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation with __JavaScipt/HTML/CSS__ to work in a browser window. Sit back and relax. This was adapted from Ben Eater's work, the repo is [here](https://github.com/andylyfo/boids).
