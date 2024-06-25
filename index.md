@@ -6,7 +6,8 @@ Here is a recent selection of data and developer projects, as well as a short su
 
 [MScR - Global Environtmental Challenges, University of Bristol](/pdf/bridge_retreat_slides_AL.pdf)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DeepMIP_gradients_andy.pdf"/>
+<img src="images/toa_energy_imbalance.png"/>
 <br><br>
 My Master's thesis was based around climate modelling, specifically paleoclimate modelling (climates of the past) and the Eocene. A hot period of Earth's history roughly 50 million years ago, it's a useful analog for future climates made warmer by anthropromorphic emissions. This time period has been notoriously difficult to model and align with proxy data from the period, partially due to an equable climate where the temperature is fairly linear at all latitudes. My project centred around the HadCM3 global circulation model and whether tuning previous models could get us any closer to the proxy data. I tuned the models and applied changes using the terminal and woking in a __Linux__ operating systems. I modelled six different levels of CO<sub>2</sub> in the Eocene (1x, 2x, 3x, 4x, 6x and 9x) and a pre-industrial control, producing multiple terabytes of data across an array of variables. I focussed on the temperature data, but others have used my simulations to produce work on the ocean systems at play. I wrote a series of __Python__ scripts and translated a few from R used by previous modellers to analyse and produce some conclusions. My 6xCO<sub>2</sub> was the standaout, accurately simulating the global surface temperature at the most reasonable level of CO<sub>2</sub> hypothesised for the time.
 
