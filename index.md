@@ -13,6 +13,7 @@ Here is a recent selection of data and developer projects, as well as a short su
 <img src="images/SAIvLEC_championship_standings.png"/>
 <br><br>
 An analysis of the results for the Ferrari team during the 2021 season and what it could mean for them going into the 2022 season with arguably the best driver pairing on the grid at the time. Since teams usually opt for a defacto lead driver in the instance of title battle, I laid down the cases for Carlos Sainz Jr. and Charles Leclerc. The former was more consistent and I believe still is the most underrated driver in F1. Ultimately, the 2022 Ferrari was a long way off the pace for this analysis to really matter. I also wrote a short piece analysing telemetry data in the [Bahrain race](https://tripeblog.substack.com/p/f1-2022-leclerc-plays-matador-to) of that year. All analysis scripts were written in __Python__ as an extracurricular way of learning the language for my masters research.
+
 ---
 #### James Ward-Prowse: All Free Kicks Analysed
 <img src="images/JWP_FKS.jpg?raw=true"/>
