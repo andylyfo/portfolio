@@ -3,13 +3,13 @@ logo: "/images/headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <br><br>
-  🏴‍☠️ Bristol
+  🏴‍☠️ Bristol based.
   <br><br>
   Early career devoloper, analyst and writer. Self-taught programmer.
   <br><br>
   London Marathon 2024 Finisher. <a href="https://www.justgiving.com/fundraising/andylyfo">£2100+ raised for RNID</a>, the UK's leading deaf charity.
   <br><br>
-  Here's my <a href="https://tripeblog.substack.com/">Substack</a>.
+  Here's my substack, <a href="https://tripeblog.substack.com/">TRIPE</a>.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
