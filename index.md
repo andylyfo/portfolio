@@ -14,6 +14,7 @@ Here is a recent selection of data and developer projects, as well as a short su
 ---
 [James Ward-Prowse: All Free Kicks Analysed](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+A short project to brighten my mood as a fan of (at the time) struggling Southampton. James Ward-Prowse seems destined to break the premier league free kick record so I wanted to see if I could analyse them from a data perspective to gain insight on his best location and angle. To find his 'territory', as it were. First this involved using some tutorials to write a web scraping API to pull all the shot data for every attempt (including open play) from [Understat](https://understat.com/player/843). The next step was cleaning and stripping the data down to just his free kick attempts and the essentials. Then it was a simple case of plotting the data with Python and it's packages. The findings were enlightening.
 
 ---
 [Browser Boids](http://example.com/)
