@@ -32,11 +32,9 @@ I've always been enamoured by the migratory activity of starlings (who isn't?) k
 
 I try to keep my pen sharp by publishing a food-related journal called TRIPE on substack. TRIPE being a synonym for nonsense, naturally.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Fooling around with the worlds most expensive spice by weight](https://open.substack.com/pub/tripeblog/p/on-paella-saffron-and-the-pulp-fiction?r=lg3sj&utm_campaign=post&utm_medium=web)
+- [Here's a few books I've enjoyed recently](https://open.substack.com/pub/tripeblog/p/heres-a-few-books-i-enjoyed-recently?r=lg3sj&utm_campaign=post&utm_medium=web)
+- [On Keith Floyd](https://open.substack.com/pub/tripeblog/p/on-floyd-on?r=lg3sj&utm_campaign=post&utm_medium=web)
 
 ---
 
