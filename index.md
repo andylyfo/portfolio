@@ -4,7 +4,7 @@
 Here is a recent selection of data and developer projects, as well as a short summary of my Master's thesis in climate modelling.
 <br><br>
 
-[MScR - Global Environtmental Challenges, University of Bristol](/sample_page)
+[MScR - Global Environtmental Challenges, University of Bristol](/pdf/bridege_retreat_slides_AL.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br><br>
 
