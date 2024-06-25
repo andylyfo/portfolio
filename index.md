@@ -21,7 +21,7 @@ A short project to brighten my mood as a fan of (at the time) struggling Southam
 
 ---
 [Browser Boids](https://andylyfo.github.io/boids/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/murmuration.jpg?raw=true"/>
 <br><br>
 I've always been enamoured by the migratory activity of starlings (who isn't?) known as murmurations, so I set out to make my own version that I can view from my desktop rather than a 4 hour journey down to Brighton beach. Upon the pleasing discovery that this was a well trodden corner of computer science (in particular game design), I built my own simulation with __JavaScipt/HTML/CSS__ to work in a browser window. Sit back and relax. This was adapted from Ben Eater's work, the repo is [here](https://github.com/andylyfo/boids).
 <br><br>
