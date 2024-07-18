@@ -31,6 +31,12 @@ Grey spots represent attempts that missed the goal. Yellow represents shots that
 You can find the scripts for this analysis, along with other football related scripts, at this repo [here](https://github.com/andylyfo/joga_bonito).
 
 ---
+[Batch Cocktail Calculator](https://andylyfo.github.io/batch_cocktail_calculator/)
+<br><br>
+<img src="images/negroni.jpg?raw=true">
+I made a little calculator for batching cocktails to store in the freezer as a companion to an upcoming blog post.
+<br><br>
+---
 [Browser Boids](https://andylyfo.github.io/boids/)
 <br><br>
 <img src="images/murmuration.jpg?raw=true"/>
